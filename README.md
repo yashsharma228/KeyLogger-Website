@@ -10,7 +10,7 @@ Usage :
 3. Click on the "Stop Logging Keypresses" button to stop logging keystrokes.
 4. The keypresses and their states will be displayed in the log and state divs.
 
-Files
+Files :
 1. index.html : The main HTML file that sets up the structure of the webpage.
 2. style.css : The CSS file that styles the webpage.
 3. index.js : The JavaScript file that handles the keypress events and updates the log and state divs.
